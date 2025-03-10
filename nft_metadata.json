@@ -1,7 +1,7 @@
 {
     "name": "Mi NFT de prueba",
     "description": "Este es un NFT creado con una imagen personalizada.",
-    "image": "https://github.com/nestord23/images/blob/main/nft1.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/nestord23/images/main/nft2.jpg?raw=true",
     "attributes": [
       {
         "trait_type": "Categoría",
